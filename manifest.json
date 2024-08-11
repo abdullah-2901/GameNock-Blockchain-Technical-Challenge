@@ -1,0 +1,12 @@
+{
+  "package_address": "0x3424dff9e3f9787f3052abd87d458f0860584d1c2101aa78f200e5ca811f82d3",
+  "minted_assets": [{
+         "mint_number": 10,
+         "address": "0xa1e57085aa7f6c09ce84c207fe697c173ab6b444fad972eaeaa246bda2a3a557"
+  },{
+    "mint_number": 199,
+    "address": "0x7ba20970568783cfa2de509e50d7cc98abca751cd7b3990ed0d5fd4988c4b8c0"
+}
+]
+}
+
